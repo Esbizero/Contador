@@ -7,4 +7,4 @@ Projeto feito em java e java POO, com tratamentos de erro customizado para a apl
 O tratamento de erro é usado para caso o segundo numero for menor que o primeiro, assim ele lança um erro parando o programa
 
 ## Comentarios
-Código não esta perfeito, tendo alguns incomodos pessoais
+Código não esta perfeito, alguns incomodos pessoais
